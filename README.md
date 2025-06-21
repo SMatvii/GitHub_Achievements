@@ -140,5 +140,5 @@ GitHub Achievements are special badges shown on your profile. Some are easy to g
 ## 3. Where to Find a Full List and More Info
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) — community-maintained list and details.
-- [GitHub Achievements Documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/about-achievements)
+- [GitHub Achievements Documentation](https://githubachievements.com/)
 ---
